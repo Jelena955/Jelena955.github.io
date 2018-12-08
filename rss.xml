@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<rss version="2.0">
+		<channel>
+			<item>
+				<title>Pet Shop Mačker ima nove proizvode</title>
+				<link></link>
+				<description> Od sad u ponudi još zanimljivih proizvoda</description>
+			</item>
+			<item>
+				<title>Pet Shop Mačker ima akcijske cene</title>
+				<link></link>
+				<description> Ne propustite veliko sniženje </description>
+			</item>
+		</channel>
+	</rss>
